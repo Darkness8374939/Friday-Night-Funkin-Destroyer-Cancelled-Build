@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Darkness", "dark", [146, 136, 253]],
+		["Destruction", "dark", [146, 136, 253]],
+		["Assigned Destroyer", "destroyer", [146, 269, 253]]
+	],
+
+	"weekCharacters": [
+		"dark",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "hallway1",
+
+	"storyName": "Darkness",
+	"weekBefore": "DarknessDestroyer",
+	"weekName": "Darkness Destroyer",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
