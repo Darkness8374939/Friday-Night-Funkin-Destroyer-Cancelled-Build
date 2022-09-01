@@ -1,0 +1,11 @@
+stage
+apartment1
+apartment2
+cleanerRoom
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
