@@ -1,6 +1,6 @@
 # FNF' Destroyer
 
-This mod began development way back in August 2021. The first thing which was created by me was a background for Dark's area. "Hallway 1" was the thing which started this mod to begin with, so I added my OCs into the mod. Right now, it was planned to be released in 2024. (The mod would eventually be cancelled on March 18, 2024.)
+This mod began development way back in August 2021. The first thing which was created by me was a background for Dark's area. "Hallway 1" was the thing which started this mod to begin with, so I added my OCs into the mod. It was planned to be released in 2024. (The mod would eventually be cancelled on March 18, 2024.)
 
 ## Engine
 Of course, the engine is ShadowMario's "Pysch Engine". Here is the link: https://github.com/ShadowMario/FNF-PsychEngine. The engine for "FNF' Destroyer" was planned to not be changed, although the build went in and out of Psych engine. 
